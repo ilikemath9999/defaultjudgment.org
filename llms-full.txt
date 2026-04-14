@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## After Vacating a Default Judgment -- What Happens Next -- Defaultjudgment
+## After Vacating a Default Judgment - What Happens Next - Defaultjudgment
 Source: https://defaultjudgment.org/after-vacating.html
 
 After Vacating a Default Judgment
@@ -23,7 +23,7 @@ The answer you attached to your motion to vacate is usually your starting point,
 
 Discovery Phase
 
-After your answer is filed, both sides can conduct discovery -- the process of exchanging information. This is where debt buyer cases often fall apart. Request: the original signed credit agreement, complete payment history, the chain of assignment from original creditor to plaintiff, and the purchase agreement for the debt portfolio. Many debt buyers cannot produce these documents.
+After your answer is filed, both sides can conduct discovery - the process of exchanging information. This is where debt buyer cases often fall apart. Request: the original signed credit agreement, complete payment history, the chain of assignment from original creditor to plaintiff, and the purchase agreement for the debt portfolio. Many debt buyers cannot produce these documents.
 
 If the plaintiff can't produce adequate documentation through discovery, you can file a motion for summary judgment arguing they haven't met their burden of proof. Many debt collection cases are dismissed at this stage.
 
@@ -43,15 +43,15 @@ Frequently Asked Questions
 
 What percentage of reopened cases end in the defendant's favor?
 
-Exact statistics are hard to find, but consumer attorneys report that a large majority of debt buyer cases that are actively defended result in dismissal, favorable settlement, or defendant verdict. The key is active participation -- the same case that resulted in a default judgment often can't survive scrutiny.
+Exact statistics are hard to find, but consumer attorneys report that a large majority of debt buyer cases that are actively defended result in dismissal, favorable settlement, or defendant verdict. The key is active participation - the same case that resulted in a default judgment often can't survive scrutiny.
 
 Can the creditor appeal the court's decision to vacate?
 
-Generally no. Decisions to vacate default judgments are within the trial court's discretion and are rarely appealed. The creditor still has the opportunity to prove their case on the merits, so they haven't lost anything by the vacating -- they just have to do more work.
+Generally no. Decisions to vacate default judgments are within the trial court's discretion and are rarely appealed. The creditor still has the opportunity to prove their case on the merits, so they haven't lost anything by the vacating - they just have to do more work.
 
 Should I settle or fight after vacating?
 
-It depends on your defenses. If the statute of limitations has expired or the plaintiff clearly lacks standing, fight -- you'll likely win. If the debt is valid and collectible, a settlement for less than the full amount may be the best practical outcome. Consult with a consumer attorney to evaluate your options.
+It depends on your defenses. If the statute of limitations has expired or the plaintiff clearly lacks standing, fight - you'll likely win. If the debt is valid and collectible, a settlement for less than the full amount may be the best practical outcome. Consult with a consumer attorney to evaluate your options.
 
 Check your bankruptcy discharge eligibility with our free screening tool.
 
@@ -81,7 +81,7 @@ Further Reading & Resources
 Authority sources for deeper research on judgments and being sued for debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Sued by Collector
 Consumer guide
@@ -165,7 +165,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Default Judgment and Wage Garnishment -- How to Stop and Prevent It -- Defaultjudgment
+## Default Judgment and Wage Garnishment - How to Stop and Prevent It - Defaultjudgment
 Source: https://defaultjudgment.org/default-judgment-and-garnishment.html
 
 Default Judgment and Garnishment
@@ -178,7 +178,7 @@ How Garnishment Follows Default Judgment
 
 After obtaining a default judgment, a creditor can request a writ of garnishment from the court. This order directs your employer to withhold a portion of your paycheck (up to 25% of disposable earnings under federal law, less in some states) and send it to the creditor. The creditor can also levy your bank accounts.
 
-You typically receive notice of the garnishment before it starts -- but not always much notice. Some states require a hearing before garnishment begins; others allow it with just written notice. By the time many people realize what's happening, the first paycheck has already been garnished.
+You typically receive notice of the garnishment before it starts - but not always much notice. Some states require a hearing before garnishment begins; others allow it with just written notice. By the time many people realize what's happening, the first paycheck has already been garnished.
 
 How to Stop Garnishment
 
@@ -231,6 +231,10 @@ Bank Account Levy Guide
 
 Cease and Desist Letter for Debt
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 ♥ Sponsor
@@ -240,7 +244,7 @@ Further Reading & Resources
 Authority sources for deeper research on judgments and being sued for debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Sued by Collector
 Consumer guide
@@ -324,7 +328,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Grounds for Vacating a Default Judgment -- Legal Bases That Work -- Defaultjudgment
+## Grounds for Vacating a Default Judgment - Legal Bases That Work - Defaultjudgment
 Source: https://defaultjudgment.org/grounds-for-vacating.html
 
 Grounds for Vacating a Default Judgment
@@ -347,21 +351,21 @@ Excusable neglect requires showing: the failure was not due to carelessness or i
 
 Meritorious Defense
 
-Most courts require you to show a meritorious defense to the underlying claim in addition to a procedural ground. Common meritorious defenses in debt cases: Statute of limitations -- the debt was time-barred when the lawsuit was filed. Lack of standing -- the plaintiff (debt buyer) can't prove they own the debt. Wrong person -- you're not the debtor. Already paid -- the debt was satisfied. Incorrect amount -- the balance is wrong.
+Most courts require you to show a meritorious defense to the underlying claim in addition to a procedural ground. Common meritorious defenses in debt cases: Statute of limitations - the debt was time-barred when the lawsuit was filed. Lack of standing - the plaintiff (debt buyer) can't prove they own the debt. Wrong person - you're not the debtor. Already paid - the debt was satisfied. Incorrect amount - the balance is wrong.
 
-You don't need to prove you'll win -- just that you have a defense worth hearing. The standard is typically "if the facts alleged in the proposed answer are true, would they constitute a valid defense?" This is a low bar that most debt defendants can meet.
+You don't need to prove you'll win - just that you have a defense worth hearing. The standard is typically "if the facts alleged in the proposed answer are true, would they constitute a valid defense?" This is a low bar that most debt defendants can meet.
 
 Void Judgment
 
 A judgment is void if the court lacked jurisdiction over you or the subject matter. This can happen when: service was so defective that the court never obtained personal jurisdiction, the wrong court handled the case (e.g., filed in a state where you don't live and didn't sign the contract), or the debt is a type the court can't adjudicate.
 
-Void judgments can be challenged at any time -- there's no deadline. This is an important distinction from voidable judgments (improper but not void) which have time limits for challenge. If the court never had jurisdiction, the judgment is a legal nullity regardless of when you discover it.
+Void judgments can be challenged at any time - there's no deadline. This is an important distinction from voidable judgments (improper but not void) which have time limits for challenge. If the court never had jurisdiction, the judgment is a legal nullity regardless of when you discover it.
 
 Frequently Asked Questions
 
 Can I vacate a default judgment if I simply forgot to respond?
 
-Forgetting alone is usually not excusable neglect. However, if there were contributing factors -- you were dealing with a medical issue, you were confused about the legal process, or you never actually received the papers despite technically valid service -- courts may be sympathetic. The key is demonstrating you have a meritorious defense.
+Forgetting alone is usually not excusable neglect. However, if there were contributing factors - you were dealing with a medical issue, you were confused about the legal process, or you never actually received the papers despite technically valid service - courts may be sympathetic. The key is demonstrating you have a meritorious defense.
 
 What evidence do I need for an improper service claim?
 
@@ -399,7 +403,7 @@ Further Reading & Resources
 Authority sources for deeper research on judgments and being sued for debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Sued by Collector
 Consumer guide
@@ -483,7 +487,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## How to Vacate a Default Judgment -- Step-by-Step Guide -- Defaultjudgment
+## How to Vacate a Default Judgment - Step-by-Step Guide - Defaultjudgment
 Source: https://defaultjudgment.org/how-to-vacate.html
 
 How to Vacate a Default Judgment
@@ -494,19 +498,19 @@ Home » How to Vacate a Default Judgment
 
 What Does Vacating Mean?
 
-Vacating a default judgment means asking the court to set it aside and reopen the case as if the judgment was never entered. If granted, you get a second chance to file an answer, raise defenses, and contest the claim. The judgment is not just reduced or modified -- it's completely cancelled.
+Vacating a default judgment means asking the court to set it aside and reopen the case as if the judgment was never entered. If granted, you get a second chance to file an answer, raise defenses, and contest the claim. The judgment is not just reduced or modified - it's completely cancelled.
 
 Vacating is done by filing a motion to vacate under the applicable court rule (typically a state equivalent of Rule 60(b)). The motion must explain why you didn't respond to the original lawsuit and demonstrate that you have a valid defense to the claim.
 
 Step-by-Step Process
 
-Step 1: Obtain the court file. Go to the court that entered the judgment and get copies of all filings -- the complaint, proof of service, and the judgment itself. Review these for errors. Step 2: Draft your motion to vacate. Include: the grounds for vacating (see next section), a proposed answer to the complaint, and any supporting evidence. Step 3: File the motion. Pay the filing fee and file with the clerk. Step 4: Serve the plaintiff. Send a copy to the creditor's attorney. Step 5: Attend the hearing. Most courts schedule a hearing on the motion where both sides argue their position.
+Step 1: Obtain the court file. Go to the court that entered the judgment and get copies of all filings - the complaint, proof of service, and the judgment itself. Review these for errors. Step 2: Draft your motion to vacate. Include: the grounds for vacating (see next section), a proposed answer to the complaint, and any supporting evidence. Step 3: File the motion. Pay the filing fee and file with the clerk. Step 4: Serve the plaintiff. Send a copy to the creditor's attorney. Step 5: Attend the hearing. Most courts schedule a hearing on the motion where both sides argue their position.
 
 The process typically takes 2-6 weeks from filing to hearing. During this time, the creditor can still enforce the judgment (garnishment, levies) unless you also file a motion to stay enforcement pending the hearing.
 
 Common Grounds for Vacating
 
-Improper service: You were never properly served with the lawsuit. This is the strongest ground. Check the proof of service -- was it served at your correct address? Was it served on you personally or left with someone? Does the affidavit of service contain false information? Excusable neglect: You had a legitimate reason for not responding (hospitalization, military deployment, mental health crisis). Meritorious defense: You have a valid defense to the underlying claim (statute of limitations, already paid, wrong person, amount is wrong). Most courts require showing a meritorious defense in addition to the procedural ground.
+Improper service: You were never properly served with the lawsuit. This is the strongest ground. Check the proof of service - was it served at your correct address? Was it served on you personally or left with someone? Does the affidavit of service contain false information? Excusable neglect: You had a legitimate reason for not responding (hospitalization, military deployment, mental health crisis). Meritorious defense: You have a valid defense to the underlying claim (statute of limitations, already paid, wrong person, amount is wrong). Most courts require showing a meritorious defense in addition to the procedural ground.
 
 Detailed guide to each ground for vacating.
 
@@ -558,7 +562,7 @@ Further Reading & Resources
 Authority sources for deeper research on judgments and being sued for debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Sued by Collector
 Consumer guide
@@ -642,7 +646,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Improper Service Defense -- Challenging Defective Service of Process -- Defaultjudgment
+## Improper Service Defense - Challenging Defective Service of Process - Defaultjudgment
 Source: https://defaultjudgment.org/improper-service-defense.html
 
 Improper Service Defense
@@ -653,13 +657,13 @@ Home » Improper Service Defense
 
 Types of Improper Service
 
-Sewer service: The process server falsely claims to have served you but never actually did. Named because the papers go "down the sewer" rather than to the defendant. This is shockingly common -- multiple process serving companies have been indicted for systemic sewer service. Wrong address: Papers served at an address where you don't live. Wrong person: Papers given to someone who doesn't meet the requirements for substitute service. Defective publication: Service by newspaper publication without adequate effort to locate you first.
+Sewer service: The process server falsely claims to have served you but never actually did. Named because the papers go "down the sewer" rather than to the defendant. This is shockingly common - multiple process serving companies have been indicted for systemic sewer service. Wrong address: Papers served at an address where you don't live. Wrong person: Papers given to someone who doesn't meet the requirements for substitute service. Defective publication: Service by newspaper publication without adequate effort to locate you first.
 
 Improper service is the strongest ground for vacating a default judgment because it means the court never had jurisdiction over you. Without proper service, the entire proceeding is a legal nullity.
 
 How to Prove Improper Service
 
-Document your address: Gather proof of where you actually lived when service was allegedly made -- lease agreements, utility bills, driver's license, mail records. Challenge the affidavit: Review the process server's affidavit of service. Does it describe your appearance correctly? Was the address correct? Was the date a day you were verifiably elsewhere? Get witness statements: If the affidavit says papers were given to a household member, get that person's affidavit denying receipt.
+Document your address: Gather proof of where you actually lived when service was allegedly made - lease agreements, utility bills, driver's license, mail records. Challenge the affidavit: Review the process server's affidavit of service. Does it describe your appearance correctly? Was the address correct? Was the date a day you were verifiably elsewhere? Get witness statements: If the affidavit says papers were given to a household member, get that person's affidavit denying receipt.
 
 GPS records: Some process servers are now required to use GPS tracking. If available, these records can prove the server never went to your address. Cell phone location data can prove you weren't at the service location on the alleged date.
 
@@ -711,7 +715,7 @@ Further Reading & Resources
 Authority sources for deeper research on judgments and being sued for debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Sued by Collector
 Consumer guide
@@ -795,26 +799,28 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Default Judgment -- How to Vacate & Respond [2026] -- Defaultjudgment
+## Default Judgment - How to Vacate & Respond [2026] - Defaultjudgment
 Source: https://defaultjudgment.org/
+
+Skip to main content
 
 🌐 Esta pagina esta disponible en Espanol
 
 Default Judgment
 
-Quick answer: A default judgment is entered when you fail to respond to a lawsuit -- the creditor wins automatically. You may be able to vacate it.
+Quick answer: A default judgment is entered when you fail to respond to a lawsuit - the creditor wins automatically. You may be able to vacate it.
 
 What Happens When You Don't Respond to a Lawsuit
 
 What Is a Default Judgment?
 
-A default judgment is a court ruling in favor of the plaintiff (creditor) because the defendant (you) failed to respond to the lawsuit within the required time -- typically 20-30 days after being served. The court essentially says: since you did not show up to defend yourself, we assume the creditor's claims are true and grant them what they asked for.
+A default judgment is a court ruling in favor of the plaintiff (creditor) because the defendant (you) failed to respond to the lawsuit within the required time - typically 20-30 days after being served. The court essentially says: since you did not show up to defend yourself, we assume the creditor's claims are true and grant them what they asked for.
 
 Default judgments are the most common outcome in debt collection lawsuits. Studies show that over 70% of debt collection cases end in default judgment because consumers either do not receive the summons, do not understand they must respond, or believe they have no defense.
 
 How Default Judgments Happen
 
-Step 1: Creditor files lawsuit. Step 2: You are served (or a process server claims you were served). Step 3: You have 20-30 days to file a written answer with the court. Step 4: If you don't respond, the creditor asks the court for default judgment. Step 5: The court grants it -- often without a hearing.
+Step 1: Creditor files lawsuit. Step 2: You are served (or a process server claims you were served). Step 3: You have 20-30 days to file a written answer with the court. Step 4: If you don't respond, the creditor asks the court for default judgment. Step 5: The court grants it - often without a hearing.
 
 Once a default judgment is entered, the creditor can: garnish your wages (up to 25% of disposable income), levy your bank account, place a lien on your property, and in some states, have your driver's license suspended.
 
@@ -826,7 +832,7 @@ Debt buyers frequently sue on debts they cannot prove they own, for amounts that
 
 How to Vacate a Default Judgment
 
-A motion to vacate the judgment asks the court to set aside the default judgment and reopen the case. Common grounds: Excusable neglect -- you were sick, out of state, or had a genuine emergency. Improper service -- you were never properly served with the lawsuit. Meritorious defense -- you have a valid defense (wrong person, paid, statute of limitations, etc.). Fraud -- the creditor lied to the court.
+A motion to vacate the judgment asks the court to set aside the default judgment and reopen the case. Common grounds: Excusable neglect - you were sick, out of state, or had a genuine emergency. Improper service - you were never properly served with the lawsuit. Meritorious defense - you have a valid defense (wrong person, paid, statute of limitations, etc.). Fraud - the creditor lied to the court.
 
 Most states require you to file the motion "promptly" or within a specific time (often 1-2 years). The sooner you act, the better your chances. You typically must show both a good reason for the default AND a valid defense to the underlying claim.
 
@@ -838,7 +844,7 @@ You may also need to avoid the judgment lien if it has attached to your property
 
 Sewer Service and Fake Service
 
-"Sewer service" is the illegal practice of process servers claiming they delivered lawsuit papers when they actually did not -- they threw them in the sewer (or trash) instead. This is shockingly common in debt collection. If you discover a default judgment you never knew about, improper service is your strongest ground for vacating it.
+"Sewer service" is the illegal practice of process servers claiming they delivered lawsuit papers when they actually did not - they threw them in the sewer (or trash) instead. This is shockingly common in debt collection. If you discover a default judgment you never knew about, improper service is your strongest ground for vacating it.
 
 Signs of sewer service: you never received any papers, the proof of service describes the wrong person, papers were allegedly left at an old address, or the server claims personal delivery when you were out of state. Document everything and file to vacate immediately.
 
@@ -876,23 +882,23 @@ Default judgments typically last 10 to 20 years depending on your state, and mos
 
 Explore Our Guides
 
-What Is a Default Judgment? -- A default judgment is entered when you fail to respond to a lawsuit. Understand how it happens, what powers it gives cre
+What Is a Default Judgment? - A default judgment is entered when you fail to respond to a lawsuit. Understand how it happens, what powers it gives cre
 
-How to Vacate a Default Judgment -- Step-by-step guide to vacating (overturning) a default judgment. Understand the process, timing requirements, and what t
+How to Vacate a Default Judgment - Step-by-step guide to vacating (overturning) a default judgment. Understand the process, timing requirements, and what t
 
-Grounds for Vacating a Default Judgment -- The specific legal grounds courts accept for vacating default judgments. Improper service, excusable neglect, meritoriou
+Grounds for Vacating a Default Judgment - The specific legal grounds courts accept for vacating default judgments. Improper service, excusable neglect, meritoriou
 
-Time Limits to Vacate Default Judgments -- State-by-state guide to deadlines for filing a motion to vacate a default judgment. Know your state's time limit and exc
+Time Limits to Vacate Default Judgments - State-by-state guide to deadlines for filing a motion to vacate a default judgment. Know your state's time limit and exc
 
-Improper Service Defense -- How to challenge a default judgment based on improper service. Sewer service, wrong address, defective substituted servi
+Improper Service Defense - How to challenge a default judgment based on improper service. Sewer service, wrong address, defective substituted servi
 
-Meritorious Defense Requirement -- Most courts require a meritorious defense to vacate a default judgment. Learn what qualifies, how to prove it, and what
+Meritorious Defense Requirement - Most courts require a meritorious defense to vacate a default judgment. Learn what qualifies, how to prove it, and what
 
-Motion to Vacate Default Judgment Template -- Free motion to vacate template for debt collection default judgments. Includes sample language for improper service, exc
+Motion to Vacate Default Judgment Template - Free motion to vacate template for debt collection default judgments. Includes sample language for improper service, exc
 
-After Vacating a Default Judgment -- What to expect after successfully vacating a default judgment. Filing your answer, discovery, settlement negotiations, a
+After Vacating a Default Judgment - What to expect after successfully vacating a default judgment. Filing your answer, discovery, settlement negotiations, a
 
-Default Judgment and Garnishment -- How default judgments lead to wage garnishment, bank levies, and asset seizure. Steps to stop garnishment and protect yo
+Default Judgment and Garnishment - How default judgments lead to wage garnishment, bank levies, and asset seizure. Steps to stop garnishment and protect yo
 
 Check your bankruptcy discharge eligibility with our free screening tool.
 
@@ -928,7 +934,7 @@ Further Reading & Resources
 Authority sources for deeper research on judgments and being sued for debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Sued by Collector
 Consumer guide
@@ -976,7 +982,7 @@ debtcollectionlawsuit.org →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -1111,6 +1117,7 @@ Means Test
 File Without a Lawyer
 Rebuild Credit
 defaultjudgment.org
+Rule 9037 PII Scanner
 
 Free bankruptcy education for the public interest. Not legal advice.
 If you need legal help, contact a licensed attorney in your state.
@@ -1124,9 +1131,11 @@ Terms
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
+Cited by the Federal Rules Committee (26-BK-3)
+
 ---
 
-## Meritorious Defense Requirement -- Proving You Have a Case Worth Hearing -- Defaultjudgment
+## Meritorious Defense Requirement - Proving You Have a Case Worth Hearing - Defaultjudgment
 Source: https://defaultjudgment.org/meritorious-defense.html
 
 Meritorious Defense Requirement
@@ -1137,9 +1146,9 @@ Home » Meritorious Defense Requirement
 
 What Courts Require
 
-When you move to vacate a default judgment, most courts require you to show a meritorious defense -- a defense that, if proven, would result in a different outcome. This doesn't mean you have to prove you'll win. The standard is lower: you need to show that the allegations in the complaint are contestable and that your defense is not frivolous.
+When you move to vacate a default judgment, most courts require you to show a meritorious defense - a defense that, if proven, would result in a different outcome. This doesn't mean you have to prove you'll win. The standard is lower: you need to show that the allegations in the complaint are contestable and that your defense is not frivolous.
 
-The purpose is to prevent wasting judicial resources. Courts don't want to vacate defaults only to have the same result after litigation. But the bar is intentionally low -- courts favor resolving disputes on the merits rather than by default.
+The purpose is to prevent wasting judicial resources. Courts don't want to vacate defaults only to have the same result after litigation. But the bar is intentionally low - courts favor resolving disputes on the merits rather than by default.
 
 Common Meritorious Defenses in Debt Cases
 
@@ -1163,7 +1172,7 @@ Can 'I can't afford to pay' be a meritorious defense?
 
 No. Inability to pay is not a legal defense to a debt claim. Meritorious defenses challenge whether the debt is owed at all (identity, already paid), whether it's enforceable (statute of limitations, standing), or whether the amount is correct.
 
-What if I know I owe the debt -- do I still have a meritorious defense?
+What if I know I owe the debt - do I still have a meritorious defense?
 
 Possibly. Even if you owe the debt, you may have defenses based on: the statute of limitations, the plaintiff's inability to prove they own the debt, incorrect amount (including unauthorized fees or interest), or FDCPA violations that can offset the claim. Consult with an attorney to evaluate your specific situation.
 
@@ -1195,7 +1204,7 @@ Further Reading & Resources
 Authority sources for deeper research on judgments and being sued for debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Sued by Collector
 Consumer guide
@@ -1279,7 +1288,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Motion to Vacate Default Judgment Template -- Free Sample Filing -- Defaultjudgment
+## Motion to Vacate Default Judgment Template - Free Sample Filing - Defaultjudgment
 Source: https://defaultjudgment.org/motion-to-vacate-template.html
 
 Motion to Vacate Default Judgment Template
@@ -1310,7 +1319,7 @@ DEFENDANT'S MOTION TO VACATE DEFAULT JUDGMENT
 Defendant [Your Name] respectfully moves this Court to vacate the default judgment entered on [date] for the following reasons:
 
 I. PROCEDURAL HISTORY
-Plaintiff filed this action on [date]. A default judgment was entered on [date] in the amount of $[amount]. Defendant first became aware of this judgment on [date] when [explain how you discovered it -- garnishment, credit report, etc.].
+Plaintiff filed this action on [date]. A default judgment was entered on [date] in the amount of $[amount]. Defendant first became aware of this judgment on [date] when [explain how you discovered it - garnishment, credit report, etc.].
 
 II. GROUNDS FOR RELIEF
 [Choose applicable ground:]
@@ -1328,7 +1337,7 @@ Respectfully submitted,
 
 Required Attachments
 
-Your motion should include: 1. Proposed Answer -- a draft answer to the original complaint listing your defenses. 2. Declaration/Affidavit -- your sworn statement explaining the facts supporting the motion. 3. Supporting evidence -- address documentation, benefit statements, or other proof supporting your grounds. 4. Certificate of Service -- proof you sent a copy to the plaintiff's attorney.
+Your motion should include: 1. Proposed Answer - a draft answer to the original complaint listing your defenses. 2. Declaration/Affidavit - your sworn statement explaining the facts supporting the motion. 3. Supporting evidence - address documentation, benefit statements, or other proof supporting your grounds. 4. Certificate of Service - proof you sent a copy to the plaintiff's attorney.
 
 File the motion and all attachments with the court clerk. Pay any required filing fee. Serve a copy on the plaintiff's attorney by mail (certified if possible). The court will schedule a hearing, typically 2-4 weeks after filing.
 
@@ -1374,7 +1383,7 @@ Further Reading & Resources
 Authority sources for deeper research on judgments and being sued for debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Sued by Collector
 Consumer guide
@@ -1458,7 +1467,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Time Limits to Vacate Default Judgments by State -- Defaultjudgment
+## Time Limits to Vacate Default Judgments by State - Defaultjudgment
 Source: https://defaultjudgment.org/time-limits-by-state.html
 
 Time Limits to Vacate Default Judgments
@@ -1503,7 +1512,7 @@ Possibly. If the judgment is void (improper service, lack of jurisdiction), ther
 
 Does filing bankruptcy vacate a default judgment?
 
-Bankruptcy does not vacate the judgment, but it can discharge the underlying debt and remove judgment liens on exempt property. The practical effect is the same -- the creditor can no longer enforce the judgment for dischargeable debts.
+Bankruptcy does not vacate the judgment, but it can discharge the underlying debt and remove judgment liens on exempt property. The practical effect is the same - the creditor can no longer enforce the judgment for dischargeable debts.
 
 Check your bankruptcy discharge eligibility with our free screening tool.
 
@@ -1533,7 +1542,7 @@ Further Reading & Resources
 Authority sources for deeper research on judgments and being sued for debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Sued by Collector
 Consumer guide
@@ -1617,7 +1626,404 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## What Is a Default Judgment? -- How Creditors Win Without a Trial -- Defaultjudgment
+## A Default Judgment Was Entered Against You - What Happens Next - Defaultjudgment
+Source: https://defaultjudgment.org/what-happens-next.html
+
+Open Bankruptcy Project › defaultjudgment.org › What Happens Next
+
+A Default Judgment Was Entered Against You - What Happens Next
+
+A default judgment gives the creditor powerful collection tools. But you still have options - including vacating the judgment and filing bankruptcy. Here is what to expect and how to protect yourself.
+
+1. What a Default Judgment Means
+
+A default judgment is a court ruling entered against you because you did not respond to a lawsuit within the required deadline. The court accepted the creditor's claims as true and awarded them the amount requested - without you ever presenting a defense.
+
+Over 70% of debt collection lawsuits end in default judgment, according to the Pew Charitable Trusts. Many defendants never receive proper notice, do not understand the legal process, or cannot afford an attorney to respond.
+
+Once the judgment is entered, the creditor becomes a judgment creditor with the legal right to use powerful enforcement tools to collect the debt.
+
+2. Wage Garnishment
+
+The most common enforcement tool. The judgment creditor obtains a court order directing your employer to withhold a portion of your paycheck and send it to the creditor.
+
+Federal Limits
+
+Consumer Credit Protection Act, 15 U.S.C. section 1673: The maximum garnishment is the lesser of: (1) 25% of your disposable earnings, or (2) the amount by which your weekly disposable earnings exceed 30 times the federal minimum wage ($7.25 x 30 = $217.50/week).
+
+State Variations
+
+Some states provide stronger protections:
+
+StateGarnishment Limit
+
+TexasNo wage garnishment for most consumer debts
+
+South CarolinaNo wage garnishment for most consumer debts
+
+PennsylvaniaNo wage garnishment for most consumer debts
+
+North CarolinaNo wage garnishment for most consumer debts
+
+New York10% of gross or 25% of disposable, minus 30x min wage
+
+California25% of disposable minus 40x state minimum wage
+
+Most other statesFollow the federal 25% limit
+
+Key point: Garnishment continues until the entire judgment - including interest and fees - is paid in full. For a large judgment, this can mean years of reduced paychecks.
+
+3. Bank Account Levy
+
+A bank levy (also called a bank garnishment or execution) allows the creditor to freeze your bank account and seize funds to satisfy the judgment.
+
+How it works:
+
+The creditor obtains a writ of execution or bank levy order from the court.
+
+The order is served on your bank.
+
+The bank freezes the amount of the judgment (or your entire balance, whichever is less).
+
+You have a short window (typically 10-21 days, depending on the state) to claim exemptions.
+
+After the exemption period, non-exempt funds are turned over to the creditor.
+
+Exempt Funds
+
+Certain funds in your bank account are protected from levy under federal and state law:
+
+Social Security benefits - protected under 42 U.S.C. section 407
+
+SSI and SSDI payments
+
+Veterans benefits - protected under 38 U.S.C. section 5301
+
+Federal student aid
+
+Workers' compensation benefits
+
+Child support and alimony received
+
+Retirement funds (ERISA-qualified plans)
+
+State-specific exemptions - many states protect a minimum amount (e.g., New York protects the greater of $3,600 or 90% of the last 60 days of income)
+
+Tip: Banks are required to automatically protect two months of direct-deposited federal benefits from levy under the 2013 federal garnishment rules. But you may need to affirmatively claim other exemptions by filing paperwork with the court within the deadline.
+
+4. Property Liens
+
+In most states, a money judgment automatically creates a lien on real property (land and buildings) you own in the county where the judgment is entered. In some states, you must record the judgment with the county recorder for the lien to attach.
+
+A judgment lien:
+
+Attaches to all real property you own in the county (and can be extended to other counties by recording an abstract of judgment).
+
+Must be paid when you sell or refinance the property, because the title company will not clear the title with an outstanding lien.
+
+Accrues interest at the judgment rate (varies by state, typically 6-10% per year).
+
+Can be renewed before it expires (typically 10-20 years depending on the state).
+
+Can sometimes be enforced through a forced sale (though homestead exemptions often protect your primary residence).
+
+5. How to Vacate a Default Judgment
+
+You may be able to get the default judgment set aside (vacated) by filing a motion in the court that entered it. Common legal grounds:
+
+a. Improper Service
+
+If you were never served with the lawsuit, or the service was defective (wrong address, "sewer service," served on the wrong person), the court never had personal jurisdiction over you. The judgment is void and can be vacated at any time - there is typically no time limit.
+
+b. Excusable Neglect
+
+If you failed to respond due to circumstances beyond your control - serious illness, military deployment, mental incapacity, or reasonable reliance on bad information - the court may vacate the judgment. You typically must also show a meritorious defense (a valid defense to the underlying claim). Most states require you to file within a reasonable time, often within one year.
+
+c. Fraud or Misconduct
+
+If the creditor obtained the judgment through fraud - forged documents, fabricated affidavits, or misrepresentation to the court - the judgment can be vacated. Evidence of fraud is required.
+
+d. Meritorious Defense
+
+Even if none of the above apply, many courts will vacate a default judgment if you can show a valid defense to the claim (the debt is not yours, the amount is wrong, the statute of limitations has expired, etc.) and that the default was not willful. Courts generally prefer to decide cases on the merits rather than by default.
+
+Filing the Motion - Step by Step
+
+Obtain a copy of the judgment and the proof of service from the court file.
+
+Identify your legal grounds for vacating the judgment.
+
+Draft a motion to vacate judgment citing the applicable state rule (often Rule 60(b) or its state equivalent).
+
+Prepare a proposed answer to the underlying lawsuit to show the court you have a meritorious defense.
+
+File a supporting declaration/affidavit explaining the facts.
+
+Serve the motion on the plaintiff's attorney and file proof of service.
+
+Attend the hearing.
+
+6. Time Limits for Vacating
+
+GroundTypical Time Limit
+
+Void judgment (no jurisdiction/improper service)No time limit in most states
+
+Excusable neglectReasonable time, usually within 1 year
+
+FraudReasonable time, usually within 1-2 years of discovery
+
+Newly discovered evidenceReasonable time, usually within 1 year
+
+Any other reason justifying reliefReasonable time (court discretion)
+
+Do not delay. The longer you wait, the harder it is to convince the court. Even for void judgments, unexplained delay can be used against you in some jurisdictions.
+
+7. Bankruptcy as a Remedy
+
+If you cannot vacate the default judgment - or if the underlying debt is valid and you simply cannot pay - bankruptcy may be your most effective option.
+
+What Bankruptcy Does
+
+Automatic stay (section 362): Immediately stops all garnishment, bank levies, lawsuits, and collection activity.
+
+Discharge: Eliminates your personal liability for the underlying debt.
+
+Lien avoidance (section 522(f)): Removes the judgment lien from your property if it impairs your exemptions.
+
+What Bankruptcy Does NOT Do
+
+Automatically vacate the state court judgment (you still need to address this in state court).
+
+Discharge nondischargeable debts (fraud, willful injury, support, student loans, recent taxes).
+
+Recover wages already garnished (though some may be recoverable as preferential transfers).
+
+Timing matters: If you know a garnishment or bank levy is coming, filing bankruptcy before it hits can protect your income and savings. Many bankruptcy attorneys can file an emergency petition within 24-48 hours.
+
+8. Which Judgments Survive Bankruptcy?
+
+Most default judgments for consumer debts are dischargeable. However, these types of judgments survive:
+
+Fraud judgments (section 523(a)(2)): If the creditor proves you obtained the credit through misrepresentation. The creditor must file an adversary proceeding in the bankruptcy case within 60 days of the 341 meeting.
+
+Willful and malicious injury (section 523(a)(6)): Intentional tort judgments.
+
+DUI/DWI injury (section 523(a)(9)): Personal injury or death from intoxicated operation of a vehicle.
+
+Domestic support (section 523(a)(5)): Alimony, child support, maintenance.
+
+Student loan debt (section 523(a)(8)): Unless you prove undue hardship.
+
+Tax debt (section 523(a)(1)): Recent income taxes and tax fraud.
+
+If the creditor missed the deadline to file an adversary proceeding for fraud or willful injury, those debts are discharged even if they would otherwise have been nondischargeable.
+
+9. Steps to Protect Yourself Right Now
+
+Find out what the judgment says. Go to the court where the case was filed and get a copy of the judgment, the complaint, and the proof of service. You need to know the exact amount, the creditor, and how you were supposedly served.
+
+Check for improper service. Were you actually served? Was it at the correct address? Was it served on the right person? If not, you may have grounds to vacate.
+
+Determine the judgment amount. Calculate the total including accrued interest and any court costs. This tells you the scope of the problem.
+
+Identify your exempt property and income. Know what creditors cannot touch under your state's exemption laws.
+
+Protect your bank account. If you have exempt funds (Social Security, disability, etc.) in your account, keep documentation proving the source of the funds.
+
+Consult an attorney. Many consumer protection and bankruptcy attorneys offer free consultations. Explain the judgment and ask about your options: vacating, settling, or filing bankruptcy.
+
+Do not ignore the situation. Judgments do not go away on their own. They accrue interest, can be renewed, and the creditor's enforcement options only get worse over time.
+
+10. Negotiating with the Judgment Creditor
+
+Even after a judgment is entered, you can negotiate. Many judgment creditors will accept a settlement for less than the full amount - especially if collection is difficult or you are judgment-proof (no assets or income to collect from).
+
+Lump sum offer: Offering 30-50% of the judgment amount in a single payment is often attractive to creditors who face years of enforcement efforts.
+
+Payment plan: Some creditors will agree to monthly installments in exchange for avoiding the cost of garnishment or levy proceedings.
+
+Satisfaction of judgment: Any settlement agreement should require the creditor to file a satisfaction of judgment with the court, officially marking the debt as resolved.
+
+Get everything in writing before you send any payment. A verbal agreement is nearly impossible to enforce. The written agreement should specify the settlement amount, the payment terms, and the creditor's obligation to file a satisfaction of judgment.
+
+11. Judgment-Proof Status
+
+You may be judgment-proof (also called collection-proof) if all of your income and assets are exempt from collection under federal and state law. Being judgment-proof means:
+
+Your only income is from exempt sources (Social Security, SSI, disability, veterans benefits).
+
+You have no non-exempt assets (no real property equity beyond your homestead exemption, no significant personal property).
+
+The creditor has nothing to garnish, levy, or lien against.
+
+If you are judgment-proof, the judgment still exists and accrues interest, but the creditor cannot collect. If your financial situation changes (you get a job, inherit property, sell a home), the creditor can then enforce the judgment.
+
+For people who are currently judgment-proof and expect to remain so, bankruptcy may be unnecessary. But if your situation could change, bankruptcy provides permanent protection through the discharge.
+
+12. Credit Report Impact
+
+Under current credit bureau policies (since 2017), civil judgments are generally no longer reported on consumer credit reports by the three major bureaus (Equifax, Experian, TransUnion) because they do not meet the enhanced data standards required by the National Consumer Assistance Plan.
+
+However:
+
+The underlying debt (collection account, charge-off) is still reported.
+
+Garnishments may indirectly show up if they cause you to miss payments on other obligations.
+
+Specialty consumer reporting agencies (like LexisNexis) may still report judgments.
+
+Landlords, employers, and others who pull court records can still find the judgment.
+
+13. Interest on Judgments
+
+Judgments accrue interest from the date they are entered. The rate is set by state law and varies significantly:
+
+StatePost-Judgment Interest Rate
+
+California10% per year
+
+New York9% per year
+
+Texas5% or contract rate, whichever is higher
+
+FloridaAdjusted annually (varies)
+
+Illinois9% per year (or 5% for personal injury)
+
+Federal courtsTreasury bill rate (adjusted weekly)
+
+At 10% annual interest, a $10,000 judgment becomes $25,937 after 10 years. This is why addressing a judgment quickly is important - the longer you wait, the more you owe.
+
+14. The Judgment Renewal Trap
+
+Most states allow judgment creditors to renew the judgment before it expires - effectively making it last indefinitely. Renewal periods and procedures vary by state, but a diligent creditor can keep a judgment alive for decades.
+
+Bankruptcyis the most reliable way to end this cycle permanently. The discharge eliminates the underlying debt, and a lien avoidance motion under section 522(f) can remove the judgment lien from your property.
+
+15. FDCPA Protections
+
+If the judgment was obtained by a debt buyer or collection agency (not the original creditor), the Fair Debt Collection Practices Act (FDCPA) applies to their enforcement efforts. Common violations include:
+
+Collecting on the wrong person (identity confusion, common names).
+
+Collecting more than owed (incorrect interest, unauthorized fees).
+
+Threatening arrest or jail for unpaid consumer debt.
+
+Contacting you at prohibited times (before 8 AM or after 9 PM).
+
+Contacting your employer (except for garnishment purposes).
+
+Sewer service (filing a false affidavit of service to obtain a default judgment).
+
+If you can prove an FDCPA violation, you may recover statutory damages up to $1,000, actual damages, and attorney's fees under 15 U.S.C. section 1692k.
+
+16. Summary - Your Options After a Default Judgment
+
+OptionBest WhenResult
+
+Vacate the judgmentService was improper, you have a defenseJudgment is erased, case starts over
+
+Negotiate a settlementYou have cash for a lump sum, debt is validReduced payment, satisfaction filed
+
+File Chapter 7 bankruptcyDebt is large, garnishment active, eligibleDebt discharged, garnishment stopped permanently
+
+File Chapter 13 bankruptcyNeed to catch up, have regular incomePay what you can over 3-5 years, rest discharged
+
+Wait it out (judgment-proof)All income/assets are exempt, no change expectedJudgment expires or goes unenforced
+
+Claim exemptionsGarnishment/levy is targeting exempt fundsExempt funds are released back to you
+
+Frequently Asked Questions
+
+Can a creditor take money directly from my bank account after a default judgment?
+
+Yes. The creditor can obtain a bank levy order that freezes your account and seizes non-exempt funds. Certain funds are protected, including Social Security, disability, and veterans benefits. You typically have 10-21 days to claim exemptions after the levy.
+
+How much of my wages can be garnished after a default judgment?
+
+Under federal law, the maximum is the lesser of 25% of disposable earnings or the amount exceeding 30 times the federal minimum wage per week. Four states (TX, SC, PA, NC) prohibit most wage garnishment for consumer debts entirely.
+
+How long does a default judgment last?
+
+Typically 10-20 years depending on your state, and most states allow renewal. Judgments accrue interest at 6-10% annually. A $10,000 judgment at 10% becomes $25,937 after 10 years.
+
+Can I vacate a default judgment if I was never properly served?
+
+Yes. Improper service means the court never had jurisdiction over you and the judgment is void. A void judgment can be challenged at any time with no time limit. File a motion to vacate with evidence showing defective service.
+
+Can bankruptcy stop wage garnishment from a default judgment?
+
+Yes, immediately. Filing bankruptcy triggers the automatic stay under section 362, which stops all garnishment, bank levies, and collection the moment the case is filed. If the debt is dischargeable, the garnishment ends permanently.
+
+Related Resources
+
+Cosigner Protection in Bankruptcy
+What happens to cosigners when judgments are involved
+
+Vacating Judgments After Bankruptcy
+Removing judgment liens and cleaning up your record
+
+Bankruptcy vs. Debt Settlement
+Compare your options before the judgment gets worse
+
+Bankruptcy During Divorce
+When joint debts lead to judgments during divorce
+
+Open Bankruptcy Project
+Free bankruptcy information and tools
+
+Facing a default judgment?
+
+Our free tools can help you understand your rights and explore your options.
+
+Visit Open Bankruptcy Project
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Student Loan Forgiveness Programs -- studentloanforgive.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (determination pending).
+
+Privacy |
+Terms
+
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## What Is a Default Judgment? - How Creditors Win Without a Trial - Defaultjudgment
 Source: https://defaultjudgment.org/what-is-default-judgment.html
 
 What Is a Default Judgment?
@@ -1628,21 +2034,21 @@ Home » What Is a Default Judgment?
 
 How Default Judgments Happen
 
-A default judgment occurs when a defendant fails to file a written response (called an "answer") to a lawsuit within the required deadline -- typically 20-30 days after being served. When no answer is filed, the plaintiff (creditor or collector) asks the court to enter judgment by default. The court grants it because the defendant's silence is treated as an admission of the claims.
+A default judgment occurs when a defendant fails to file a written response (called an "answer") to a lawsuit within the required deadline - typically 20-30 days after being served. When no answer is filed, the plaintiff (creditor or collector) asks the court to enter judgment by default. The court grants it because the defendant's silence is treated as an admission of the claims.
 
 Default judgments are the most common outcome in debt collection lawsuits. Studies consistently show that 70-90% of collection cases end in default judgment. Most consumers either don't understand they've been sued, don't realize they need to respond, or mistakenly believe ignoring the lawsuit makes it go away.
 
 What a Default Judgment Allows
 
-Once a default judgment is entered, the creditor gains powerful enforcement tools: Wage garnishment -- up to 25% of your disposable earnings in most states. Bank account levy -- freezing and seizing funds from your bank accounts. Property liens -- attaching a lien to real estate you own, which must be paid when you sell or refinance. Asset seizure -- in some states, seizing non-exempt personal property.
+Once a default judgment is entered, the creditor gains powerful enforcement tools: Wage garnishment - up to 25% of your disposable earnings in most states. Bank account levy - freezing and seizing funds from your bank accounts. Property liens - attaching a lien to real estate you own, which must be paid when you sell or refinance. Asset seizure - in some states, seizing non-exempt personal property.
 
 Default judgments also accrue interest (typically 4-12% annually depending on the state) and can be renewed before they expire. In many states, a judgment lasts 10-20 years and can be renewed indefinitely. This means a $5,000 judgment can grow to $15,000+ over time.
 
 Why You Must Always Respond
 
-Filing an answer -- even a simple one -- forces the creditor to prove their case. Many debt collection lawsuits, especially those filed by debt buyers, have weak evidence: missing original contracts, incomplete payment histories, broken chains of assignment, or expired statutes of limitations. When challenged, many of these cases are dismissed.
+Filing an answer - even a simple one - forces the creditor to prove their case. Many debt collection lawsuits, especially those filed by debt buyers, have weak evidence: missing original contracts, incomplete payment histories, broken chains of assignment, or expired statutes of limitations. When challenged, many of these cases are dismissed.
 
-Filing an answer is often inexpensive ($30-100 filing fee in most courts) and doesn't require an attorney. Many courts have fill-in-the-blank answer forms. The simple act of showing up forces the collector to spend money on litigation -- and many don't find that worthwhile for small consumer debts.
+Filing an answer is often inexpensive ($30-100 filing fee in most courts) and doesn't require an attorney. Many courts have fill-in-the-blank answer forms. The simple act of showing up forces the collector to spend money on litigation - and many don't find that worthwhile for small consumer debts.
 
 Frequently Asked Questions
 
@@ -1686,7 +2092,7 @@ Further Reading & Resources
 Authority sources for deeper research on judgments and being sued for debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Sued by Collector
 Consumer guide
@@ -1767,3 +2173,75 @@ Terms
 ♥ Sponsor
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Privacy Policy - defaultjudgment.org
+Source: https://defaultjudgment.org/privacy.html
+
+defaultjudgment.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
